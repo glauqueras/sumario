@@ -1,0 +1,28 @@
+h1 {
+    color:#de3f04;
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    font-size: 60px;
+    background-color: aliceblue;
+    padding: 100px;
+    margin: 0px;
+    outline: 10px solid aliceblue;
+}
+h2 {
+    color: #de3f04;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 40px;
+    font-family: 'Archivo Black', sans-serif;
+}
+ol {
+    color: black;
+    text-align: left;
+    font-size: 17px;
+    margin-left: 49px;
+    font-family: 'Merriweather', serif;
+}
+body {
+    background-color: darkgrey;
+}
+
